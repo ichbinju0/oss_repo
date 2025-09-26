@@ -9,6 +9,7 @@ Today I learned:
   * How to check the status of my repository
   * And more!!
   * How to solve merge conflict
+* Merge conflict
 
 
 
